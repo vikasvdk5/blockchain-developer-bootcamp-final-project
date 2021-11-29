@@ -18,6 +18,7 @@ This project is a NFT Collectible smart contract where you can mint, burn NFTs. 
 ## UI Features
 - Login with Metamask.
 - List Your NFT tokens, all other NFT tokens & NFT tokens available for Auctions.
+- Mint NFT Tokens.
 - SetupAuction for a given NFT from the "Your Tokens" list.
 
 
