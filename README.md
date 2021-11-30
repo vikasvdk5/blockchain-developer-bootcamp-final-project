@@ -85,9 +85,9 @@ Your app is ready to be deployed!
 
 
 ## Metamask Wallet details for Minting NFT and setting up the Auction: (Please import this to Metamask)
-Ropsten Metamask Account (Final deployed project) 
-Public address - 0xE5288D8a86755A368208e83c91324eA468922122
-Priv Key - 33f434da822756aaa2585d6a4e77494b6f2708d45a49b9573fa221f996e05a41
+Ropsten Metamask Account (Final deployed project) \
+Public address - 0xE5288D8a86755A368208e83c91324eA468922122 \
+Priv Key - 33f434da822756aaa2585d6a4e77494b6f2708d45a49b9573fa221f996e05a41 \
 
 PS: Since any new address needs to be whitelisted for Minting, sharing the above Metamask details in TestNet for easy access. 
 ## Simple workflow
