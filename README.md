@@ -10,7 +10,7 @@ This project is a SkyScrapper Access Pass NFT Collectible smart contract where y
 - SetupAuction for a given NFT from the "Your Tokens" list.
 
 ## Live link
-https://vikasvdk5.github.io/listings
+https://vikasvdk5.github.io/blockchain-developer-bootcamp-final-project/
 
 
 ## SkyScrapper NFT Collectible SmartContract Features (All features are not implemented in UI)
