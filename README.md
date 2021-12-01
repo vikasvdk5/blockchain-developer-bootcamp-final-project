@@ -119,3 +119,6 @@ PS: Since any new address needs to be whitelisted for Minting, sharing the above
 0x733F6e7D995d7f9054506FF98836eED5770B4289
 
 
+## Contact:
+Discord: vikasvdk#7763
+Gmail: vikasvdk5@gmail.com
