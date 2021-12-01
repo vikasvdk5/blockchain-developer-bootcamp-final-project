@@ -13,6 +13,9 @@ This project is a SkyScrapper Access Pass NFT Collectible smart contract where y
 https://vikasvdk5.github.io/blockchain-developer-bootcamp-final-project/
 
 
+## Screencast
+https://www.loom.com/share/5623ee235dfc45adb474e0810e3c8cdd
+
 ## SkyScrapper NFT Collectible SmartContract Features (All features are not implemented in UI)
 - Mint, or Burn Non-Fungible Tokens(NFT).
 - Approve - Assign spender approval for enabling TransferFrom functionality. To approve or remove spender approval for a given NFT token.
