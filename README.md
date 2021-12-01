@@ -1,6 +1,6 @@
 # NFT Collectible with Auction functionality
 
-This project is a SkyScrapper Access Pass NFT Collectible smart contract where you can mint NFTs as a representation of lifetime Access Pass for that SkyScrapper. Once the NFTs are minted, there is a capability to setup the Auction those NFTs.
+This project is a SkyScrapper Access Pass NFT Collectible smart contract where you can mint NFTs as a representation of lifetime Access Pass for that SkyScrapper. Once the NFTs are minted, there is a capability to setup the Auction for those NFTs.
 
 ## UI Features
 - Login with Metamask.
@@ -26,25 +26,6 @@ DEPLOYED in Ropsten @ `0xb3CDAe7968c947162E2C22B7B91859C573c0f8aE`
 
 # Getting Started
 
-<!-- ### Prerequisites
- - Node.js >= v14
- - Truffle and Ganache
- - Yarn
- - git checkout master
-
-## Contracts
-  - Run yarn install in project root to install Truffle build and smart contract dependencies
-  - Run local testnet in port 7545 with an Ethereum client, e.g. Ganache
-  - truffle migrate --network development
-  - truffle console --network development
-  - Run tests in Truffle console: test
-  - development network id is 1337, remember to change it in Metamask as well!
-
-## Frontend
-  - cd client
-  - yarn install
-  - yarn start
-  - Open http://localhost:3000 -->
 
 ## The Technology
 
